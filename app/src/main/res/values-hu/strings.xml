@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PmaBosnjak</string>
+    <string name="otvoristudenta">Megnyitás diák</string>
+    <string name="imet">Név</string>
+    <string name="prezimet">Vezetéknév</string>
+    <string name="datumt">Születési dátum</string>
+
+    <string name="saztekatt">
+Összefoglaló megnyitása</string>
+    <string name="predmett">Tantárgy</string>
+    <string name="profesort">Professzor</string>
+    <string name="prt">Órák PR</string>
+    <string name="lvt">Órák LV</string>
+    <string name="izbornikt">Választható</string>
+
+    <string name="headert">Fejléc</string>
+    <string name="nazadt">Megnyitás</string>
+    <string name="select_language_prompt">Válasszon nyelvet</string>
+    <string name="croatian">Horvát</string>
+    <string name="english">Angol</string>
+    <string name="hungarian">Magyar</string>
+</resources>
