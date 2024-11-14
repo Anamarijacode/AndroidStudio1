@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/astudent/AndroidStudioProjects/PmaBosnjak/app/src/main/res/layout/activity_personal_info.xml" value="0.33" />
+        <entry key="..\:/Users/astudent/AndroidStudioProjects/PmaBosnjak/app/src/main/res/layout/activity_student_info.xml" value="0.25" />
+        <entry key="..\:/Users/astudent/AndroidStudioProjects/PmaBosnjak/app/src/main/res/layout/activity_summary.xml" value="0.25" />
+        <entry key="..\:/Users/astudent/AndroidStudioProjects/local/app/src/main/res/layout/activity_home.xml" value="0.25" />
+        <entry key="..\:/Users/astudent/AndroidStudioProjects/local/app/src/main/res/layout/activity_summary.xml" value="0.22604166666666667" />
+        <entry key="..\:/Users/astudent/AndroidStudioProjects/local/app/src/main/res/layout/header_layout.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/astudent/AndroidStudioProjects/local/app/src/main/res/layout/student_item.xml" value="0.3416666666666667" />
+        <entry key="..\:/Users/user/Desktop/gradle/app/src/main/res/layout/activity_home.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/user/Desktop/gradle/app/src/main/res/layout/activity_personal_info.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/user/Desktop/gradle/app/src/main/res/layout/activity_student_info.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/user/Desktop/gradle/app/src/main/res/layout/activity_summary.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/user/Desktop/gradle/app/src/main/res/layout/header_layout.xml" value="0.25" />
+        <entry key="..\:/Users/user/Desktop/gradle/app/src/main/res/layout/spiner_layout.xml" value="0.3625" />
+        <entry key="..\:/Users/user/Desktop/gradle/app/src/main/res/layout/student_item.xml" value="0.21458333333333332" />
+        <entry key="..\:/Users/user/Desktop/local/app/src/main/res/layout/activity_personal_info.xml" value="0.2826086956521739" />
+        <entry key="..\:/Users/user/Desktop/local/app/src/main/res/layout/activity_student_info.xml" value="0.3625" />
+        <entry key="..\:/Users/user/Desktop/local/app/src/main/res/layout/activity_summary.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
